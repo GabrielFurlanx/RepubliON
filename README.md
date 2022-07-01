@@ -13,3 +13,6 @@
 6°- Você pode cancelar o contrato de aluguel a qualquer momento.
 
 7°- Aplicativo permitido para pessoas acima de 18 anos
+
+
+read
