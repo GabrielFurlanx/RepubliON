@@ -1,7 +1,5 @@
 <h1>RepubliON<h1>
 
-![RepubliON](URL da imagem)
-
 
 >1°- O Projeto republion foi criado com o objetivo de ajudar as pessoas que saem de suas cidades para outras para estudar/trabalhar
 
